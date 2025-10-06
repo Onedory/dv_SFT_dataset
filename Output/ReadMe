@@ -1,0 +1,3 @@
+To maximize the performance of gpt-oss-20b, data is generated using the Harmony chat format. 
+Reasoning is performed and responses are generated based on the specs corresponding to the tagged domains and tasks in user messages. 
+ReasoningEffort is set to HIGH.
